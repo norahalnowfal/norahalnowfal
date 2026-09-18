@@ -2,7 +2,7 @@
 
 # ✦ Hi, I'm Norah ✦
 
-### Computer Science Graduate · Aspiring AI Engineer
+### Computer Science  · Aspiring AI Engineer
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9570C6&center=true&vCenter=true&width=500&height=30&lines=AI+%26+Software+Development;Learning+%7C+Building+%7C+Improving"
