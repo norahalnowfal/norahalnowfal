@@ -65,9 +65,9 @@
 <div align="center">
 
 <img
-  src="./metrics.plugin.calendar.svg"
+  src="https://ghchart.rshah.org/9570C6/norahalnowfal"
   width="100%"
-  alt="Contribution Calendar"
+  alt="Norah's GitHub Contribution Calendar"
 />
 
 </div>
