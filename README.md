@@ -2,7 +2,7 @@
 
 # ✦ Hi, I'm Norah ✦
 
-### Computer Science  · Aspiring AI Engineer
+### Computer Science Graduate · Aspiring AI Engineer
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9570C6&center=true&vCenter=true&width=500&height=30&lines=AI+%26+Software+Development;Learning+%7C+Building+%7C+Improving"
@@ -33,9 +33,9 @@
 
 <br>
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-39184B?style=flat-square&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-795690?style=flat-square&logoColor=white)
-![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-9570C6?style=flat-square&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-39184B?style=flat-square)
+![NLP](https://img.shields.io/badge/NLP-795690?style=flat-square)
+![Data Preprocessing](https://img.shields.io/badge/Data%20Preprocessing-9570C6?style=flat-square)
 ![Classification](https://img.shields.io/badge/Classification-C9A6E4?style=flat-square&logoColor=39184B)
 
 </div>
@@ -50,7 +50,17 @@
 
 <img height="135" src="https://github-readme-stats.shion.dev/api/top-langs/?username=norahalnowfal&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A6E4&text_color=A3A6CF"/>
 
-<img height="135" src="https://streak-stats.demolab.com?user=norahalnowfal&hide_border=true&background=0D1117&ring=9570C6&fire=C9A6E4&currStreakNum=C9A6E4&sideNums=A3A6CF&currStreakLabel=9570C6&sideLabels=795690&dates=A3A6CF"/>
+</div>
+
+### ✦ Contributions
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/norahalnowfal/norahalnowfal/output/github-snake.svg"
+  width="100%"
+  alt="Purple Contribution Snake"
+/>
 
 </div>
 
