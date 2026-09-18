@@ -73,19 +73,41 @@
 </div>
 
 ---
-
-### ✦ Contribution Snake
+### ✦ Contributions
 
 <div align="center">
 
-<img
-  src="https://raw.githubusercontent.com/norahalnowfal/norahalnowfal/output/github-snake.svg"
-  width="100%"
-  alt="Purple Contribution Snake"
-/>
+<b>2025 — 2026</b>
+
+<br>
+
+<code>
+Sep &nbsp;&nbsp; Oct &nbsp;&nbsp; Nov &nbsp;&nbsp; Dec &nbsp;&nbsp; Jan &nbsp;&nbsp; Feb &nbsp;&nbsp; Mar &nbsp;&nbsp; Apr &nbsp;&nbsp; May &nbsp;&nbsp; Jun &nbsp;&nbsp; Jul &nbsp;&nbsp; Aug &nbsp;&nbsp; Sep
+</code>
+
+<br><br>
+
+<table>
+  <tr>
+    <td align="right">
+      <code>
+        Mon<br><br>
+        Wed<br><br>
+        Fri
+      </code>
+    </td>
+
+    <td>
+      <img
+        src="https://raw.githubusercontent.com/norahalnowfal/norahalnowfal/output/github-snake.svg"
+        width="100%"
+        alt="Norah's Contribution Snake"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
-
 ---
 
 <div align="center">
