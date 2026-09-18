@@ -2,7 +2,7 @@
 
 # ✦ Hi, I'm Norah ✦
 
-### Computer Science Graduate · Aspiring AI Engineer
+### Computer Science · Aspiring AI Engineer
 
 <img
   src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=9570C6&center=true&vCenter=true&width=500&height=30&lines=AI+%26+Software+Development;Learning+%7C+Building+%7C+Improving"
@@ -46,13 +46,35 @@
 
 <div align="center">
 
-<img height="135" src="https://github-readme-stats.shion.dev/api?username=norahalnowfal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A6E4&text_color=A3A6CF&icon_color=9570C6"/>
+<img
+  height="135"
+  src="https://github-readme-stats.shion.dev/api?username=norahalnowfal&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C9A6E4&text_color=A3A6CF&icon_color=9570C6"
+/>
 
-<img height="135" src="https://github-readme-stats.shion.dev/api/top-langs/?username=norahalnowfal&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A6E4&text_color=A3A6CF"/>
+<img
+  height="135"
+  src="https://github-readme-stats.shion.dev/api/top-langs/?username=norahalnowfal&layout=compact&hide_border=true&bg_color=0D1117&title_color=C9A6E4&text_color=A3A6CF"
+/>
 
 </div>
 
-### ✦ Contributions
+---
+
+### ✦ Contributions Calendar
+
+<div align="center">
+
+<img
+  src="./metrics.plugin.calendar.svg"
+  width="100%"
+  alt="Contribution Calendar"
+/>
+
+</div>
+
+---
+
+### ✦ Contribution Snake
 
 <div align="center">
 
