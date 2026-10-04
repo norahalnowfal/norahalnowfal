@@ -28,14 +28,14 @@
 
 <p align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=norahalnowfal&show_icons=true&theme=transparent&hide_border=true&title_color=00e5ff&text_color=8b9dc3&icon_color=8b5cf6&bg_color=00000000&ring_color=00e5ff)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=norahalnowfal&layout=compact&theme=transparent&hide_border=true&title_color=00e5ff&text_color=8b9dc3&bg_color=00000000)
+![](https://github-readme-stats.vercel.app/api?username=norahalnowfal&show_icons=true&theme=transparent&hide_border=true&title_color=8ae1e9&text_color=93a4c2&icon_color=8c7fb4&bg_color=00000000&ring_color=8ae1e9)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=norahalnowfal&layout=compact&theme=transparent&hide_border=true&title_color=8ae1e9&text_color=93a4c2&bg_color=00000000)
 
 </p>
 
 <p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=norahalnowfal&theme=transparent&hide_border=true&ring=00e5ff&fire=8b5cf6&currStreakLabel=00e5ff&sideLabels=8b9dc3&currStreakNum=ffffff&sideNums=ffffff&dates=555555&stroke=1a1a2e)
+![](https://github-readme-streak-stats.herokuapp.com/?user=norahalnowfal&theme=transparent&hide_border=true&ring=8ae1e9&fire=d889a7&currStreakLabel=8ae1e9&sideLabels=93a4c2&currStreakNum=edf3f8&sideNums=edf3f8&dates=667085&stroke=222a3a)
 
 </p>
 
