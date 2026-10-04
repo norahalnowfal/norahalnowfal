@@ -1,0 +1,57 @@
+<svg width="860" height="490" viewBox="0 0 860 490" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="border" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#00e5ff"/><stop offset="34%" stop-color="#111122"/>
+    <stop offset="58%" stop-color="#8b5cf6"/><stop offset="82%" stop-color="#111122"/><stop offset="100%" stop-color="#ec4899"/>
+  </linearGradient>
+  <radialGradient id="orbC"><stop offset="0%" stop-color="#00e5ff" stop-opacity=".38"/><stop offset="100%" stop-color="#00e5ff" stop-opacity="0"/></radialGradient>
+  <radialGradient id="orbP"><stop offset="0%" stop-color="#8b5cf6" stop-opacity=".42"/><stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+  <radialGradient id="orbB"><stop offset="0%" stop-color="#3366ff" stop-opacity=".30"/><stop offset="100%" stop-color="#3366ff" stop-opacity="0"/></radialGradient>
+  <filter id="blur"><feGaussianBlur stdDeviation="24"/></filter>
+  <filter id="softGlow"><feGaussianBlur stdDeviation="4"/></filter>
+  <style><![CDATA[
+    @keyframes driftA {0%,100%{transform:translate(0,0);opacity:.58}50%{transform:translate(38px,-24px);opacity:.88}}
+    @keyframes driftB {0%,100%{transform:translate(0,0);opacity:.46}50%{transform:translate(-32px,20px);opacity:.78}}
+    @keyframes pulse {0%,100%{opacity:.48}50%{opacity:1}}
+    @keyframes scan {0%{transform:translateY(-360px)}100%{transform:translateY(360px)}}
+    @keyframes blink {0%,49%{opacity:1}50%,100%{opacity:0}}
+    .a{animation:driftA 10s ease-in-out infinite} .b{animation:driftB 12s ease-in-out infinite .6s}
+    .p{animation:pulse 3s ease-in-out infinite} .scan{animation:scan 7s linear infinite} .blink{animation:blink 1.05s step-end infinite}
+    text{font-family:Inter,Segoe UI,Arial,sans-serif}
+  ]]></style>
+</defs>
+<rect x="0" y="0" width="860" height="490" rx="20" fill="#06060a"/>
+<rect x="1" y="1" width="858" height="488" rx="19" fill="none" stroke="#00e5ff" stroke-opacity=".10"/>
+<ellipse class="a" cx="70" cy="420" rx="220" ry="150" fill="url(#orbC)" filter="url(#blur)"/><ellipse class="b" cx="785" cy="80" rx="240" ry="150" fill="url(#orbP)" filter="url(#blur)"/>
+<text x="430" y="40" text-anchor="middle" fill="#8b9dc3" font-size="11" font-weight="700" letter-spacing="6">FEATURED PROJECTS</text><g><rect x="38" y="66" width="784" height="64" rx="12" fill="#0a0a12" stroke="#1a1a2e"/>
+    <rect x="38" y="66" width="4" height="64" rx="2" fill="#00e5ff" fill-opacity=".8"/>
+    <circle id="pjs0" class="p" cx="62" cy="88" r="4" fill="#00e5ff"/>
+    <text x="78" y="91" fill="#f4f7ff" font-size="12.3" font-weight="700">Personal Programming Projects</text>
+    <text x="78" y="112" fill="#8b9dc3" font-size="9.7">Hands-on projects for strengthening programming fundamentals and practical development.</text>
+    <rect x="744" y="83" width="58" height="26" rx="13" fill="#00e5ff" fill-opacity=".08" stroke="#00e5ff" stroke-opacity=".35"/>
+    <text x="773" y="100" text-anchor="middle" fill="#00e5ff" font-size="9" font-weight="700">CODE</text></g><g><rect x="38" y="144" width="784" height="64" rx="12" fill="#0a0a12" stroke="#1a1a2e"/>
+    <rect x="38" y="144" width="4" height="64" rx="2" fill="#8b5cf6" fill-opacity=".8"/>
+    <circle id="pjs1" class="p" cx="62" cy="166" r="4" fill="#8b5cf6"/>
+    <text x="78" y="169" fill="#f4f7ff" font-size="12.3" font-weight="700">Machine Learning Projects</text>
+    <text x="78" y="190" fill="#8b9dc3" font-size="9.7">Exploring supervised learning, model evaluation, and applied ML workflows.</text>
+    <rect x="744" y="161" width="58" height="26" rx="13" fill="#8b5cf6" fill-opacity=".08" stroke="#8b5cf6" stroke-opacity=".35"/>
+    <text x="773" y="178" text-anchor="middle" fill="#8b5cf6" font-size="9" font-weight="700">ML</text></g><g><rect x="38" y="222" width="784" height="64" rx="12" fill="#0a0a12" stroke="#1a1a2e"/>
+    <rect x="38" y="222" width="4" height="64" rx="2" fill="#3366ff" fill-opacity=".8"/>
+    <circle id="pjs2" class="p" cx="62" cy="244" r="4" fill="#3366ff"/>
+    <text x="78" y="247" fill="#f4f7ff" font-size="12.3" font-weight="700">NLP & Classification</text>
+    <text x="78" y="268" fill="#8b9dc3" font-size="9.7">Experimenting with text processing, natural language tasks, and classification.</text>
+    <rect x="744" y="239" width="58" height="26" rx="13" fill="#3366ff" fill-opacity=".08" stroke="#3366ff" stroke-opacity=".35"/>
+    <text x="773" y="256" text-anchor="middle" fill="#3366ff" font-size="9" font-weight="700">NLP</text></g><g><rect x="38" y="300" width="784" height="64" rx="12" fill="#0a0a12" stroke="#1a1a2e"/>
+    <rect x="38" y="300" width="4" height="64" rx="2" fill="#ec4899" fill-opacity=".8"/>
+    <circle id="pjs3" class="p" cx="62" cy="322" r="4" fill="#ec4899"/>
+    <text x="78" y="325" fill="#f4f7ff" font-size="12.3" font-weight="700">Algorithms & Problem Solving</text>
+    <text x="78" y="346" fill="#8b9dc3" font-size="9.7">Practicing algorithms, data structures, logic, and computational thinking.</text>
+    <rect x="744" y="317" width="58" height="26" rx="13" fill="#ec4899" fill-opacity=".08" stroke="#ec4899" stroke-opacity=".35"/>
+    <text x="773" y="334" text-anchor="middle" fill="#ec4899" font-size="9" font-weight="700">ALG</text></g><g><rect x="38" y="378" width="784" height="64" rx="12" fill="#0a0a12" stroke="#1a1a2e"/>
+    <rect x="38" y="378" width="4" height="64" rx="2" fill="#54a6ff" fill-opacity=".8"/>
+    <circle id="pjs4" class="p" cx="62" cy="400" r="4" fill="#54a6ff"/>
+    <text x="78" y="403" fill="#f4f7ff" font-size="12.3" font-weight="700">Software Development Practice</text>
+    <text x="78" y="424" fill="#8b9dc3" font-size="9.7">Improving code quality, version control, tooling, and project structure.</text>
+    <rect x="744" y="395" width="58" height="26" rx="13" fill="#54a6ff" fill-opacity=".08" stroke="#54a6ff" stroke-opacity=".35"/>
+    <text x="773" y="412" text-anchor="middle" fill="#54a6ff" font-size="9" font-weight="700">DEV</text></g>
+</svg>
